@@ -1,0 +1,427 @@
+/* only screen and (max-width:575px)*/
+*{margin: 0px;
+    padding: 0px;
+  }
+  body{ background-color: #000;
+  background-attachment: fixed;}
+  /*genel sayfa düzeni */
+  #sayfa{
+max-width: 576px;}
+/*İSİM*/
+
+.main_element{width: 40%;
+    margin: 70px auto;
+
+display: flex;
+justify-content: space-around;
+height: 20px;
+
+
+}
+.element{
+   
+   font-size: 12px;
+    height: auto;
+    width: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+
+}
+.kutu1{
+    -webkit-animation: kutu1 4s linear 0s infinite alternate running;
+    -moz-animation: kutu1 4s linear 0s infinite alternate running;
+    -o-animation: kutu1 4s linear 0s infinite alternate running;
+    -ms-animation: kutu1 4s linear 0s infinite alternate running;
+    animation: kutu1 4s linear 0s infinite alternate running;
+}
+.kutu2{
+    -webkit-animation: kutu2 4s linear 0s infinite alternate running;
+    -moz-animation: kutu2 4s linear 0s infinite alternate running;
+    -o-animation: kutu2 4s linear 0s infinite alternate running;
+    -ms-animation: kutu2 4s linear 0s infinite alternate running;
+    animation: kutu2 4s linear 0s infinite alternate running;
+}
+.kutu3{
+    -webkit-animation: kutu3 4s linear 0s infinite alternate running;
+    -moz-animation: kutu3 4s linear 0s infinite alternate running;
+    -o-animation: kutu3 4s linear 0s infinite alternate running;
+    -ms-animation: kutu3 4s linear 0s infinite alternate running;
+    animation: kutu3 4s linear 0s infinite alternate running;
+}
+.kutu4{
+    -webkit-animation: kutu4 4s linear 0s infinite alternate running;
+    -moz-animation: kutu4 4s linear 0s infinite alternate running;
+    -o-animation: kutu4 4s linear 0s infinite alternate running;
+    -ms-animation: kutu4 4s linear 0s infinite alternate running;
+    animation: kutu4 4s linear 0s infinite alternate running;
+}
+.kutu5{
+    -webkit-animation: kutu5 4s linear 0s infinite alternate running;
+    -moz-animation: kutu5 4s linear 0s infinite alternate running;
+    -o-animation: kutu5 4s linear 0s infinite alternate running;
+    -ms-animation: kutu5 4s linear 0s infinite alternate running;
+    animation: kutu5 4s linear 0s infinite alternate running;
+}
+.kutu6{
+    -webkit-animation: kutu6 4s linear 0s infinite alternate running;
+    -moz-animation: kutu6 4s linear 0s infinite alternate running;
+    -o-animation: kutu6 4s linear 0s infinite alternate running;
+    -ms-animation: kutu6 4s linear 0s infinite alternate running;
+    animation: kutu6 4s linear 0s infinite alternate running;
+}
+.kutu7{
+    -webkit-animation: kutu7 4s linear 0s infinite alternate running;
+    -moz-animation: kutu7 4s linear 0s infinite alternate running;
+    -o-animation: kutu7 4s linear 0s infinite alternate running;
+    -ms-animation: kutu7 4s linear 0s infinite alternate running;
+    animation: kutu7 4s linear 0s infinite alternate running;
+}
+.kutu8{
+    -webkit-animation: kutu8 4s linear 0s infinite alternate running;
+    -moz-animation: kutu8 4s linear 0s infinite alternate running;
+    -o-animation: kutu8 4s linear 0s infinite alternate running;
+    -ms-animation: kutu8 4s linear 0s infinite alternate running;
+    animation: kutu8 4s linear 0s infinite alternate running;
+}
+.kutu9{
+    -webkit-animation: kutu9 4s linear 0s infinite alternate running;
+    -moz-animation: kutu9 4s linear 0s infinite alternate running;
+    -o-animation: kutu9 4s linear 0s infinite alternate running;
+    -ms-animation: kutu9 4s linear 0s infinite alternate running;
+    animation: kutu9 4s linear 0s infinite alternate running;
+}
+.kutu10{
+    -webkit-animation: kutu10 4s linear 0s infinite alternate running;
+    -moz-animation: kutu10 4s linear 0s infinite alternate running;
+    -o-animation: kutu10 4s linear 0s infinite alternate running;
+    -ms-animation: kutu10 4s linear 0s infinite alternate running;
+    animation: kutu10 4s linear 0s infinite alternate running;
+}
+.kutu11{
+    -webkit-animation: kutu11 4s linear 0s infinite alternate running;
+    -moz-animation: kutu11 4s linear 0s infinite alternate running;
+    -o-animation: kutu11 4s linear 0s infinite alternate running;
+    -ms-animation: kutu11 4s linear 0s infinite alternate running;
+    animation: kutu11 4s linear 0s infinite alternate running;
+}
+.kutu12{
+    -webkit-animation: kutu12 4s linear 0s infinite alternate running;
+    -moz-animation: kutu12 4s linear 0s infinite alternate running;
+    -o-animation: kutu12 4s linear 0s infinite alternate running;
+    -ms-animation: kutu12 4s linear 0s infinite alternate running;
+    animation: kutu12 4s linear 0s infinite alternate running;
+}
+.kutu13{
+    -webkit-animation: kutu13 4s linear 0s infinite alternate running;
+    -moz-animation: kutu13 4s linear 0s infinite alternate running;
+    -o-animation: kutu13 4s linear 0s infinite alternate running;
+    -ms-animation: kutu13 4s linear 0s infinite alternate running;
+    animation: kutu13 4s linear 0s infinite alternate running;
+}
+.kutu14{
+    -webkit-animation: kutu14 4s linear 0s infinite alternate running;
+    -moz-animation: kutu14 4s linear 0s infinite alternate running;
+    -o-animation: kutu14 4s linear 0s infinite alternate running;
+    -ms-animation: kutu14 4s linear 0s infinite alternate running;
+    animation: kutu14 4s linear 0s infinite alternate running;
+}
+.kutu15{ -webkit-animation: kutu15 4s linear 0s infinite alternate running;
+    -moz-animation: kutu15 4s linear 0s infinite alternate running;
+    -o-animation: kutu15 4s linear 0s infinite alternate running;
+    -ms-animation: kutu15 4s linear 0s infinite alternate running;
+    animation: kutu15 4s linear 0s infinite alternate running;}
+.kutu16{ -webkit-animation: kutu16 4s linear 0s infinite alternate running;
+    -moz-animation: kutu16 4s linear 0s infinite alternate running;
+    -o-animation: kutu16 4s linear 0s infinite alternate running;
+    -ms-animation: kutu16 4s linear 0s infinite alternate running;
+    animation: kutu16 4s linear 0s infinite alternate running;}
+    .kutu17{ -webkit-animation: kutu17 4s linear 0s infinite alternate running;
+    -moz-animation: kutu17 4s linear 0s infinite alternate running;
+    -o-animation: kutu17 4s linear 0s infinite alternate running;
+    -ms-animation: kutu17 4s linear 0s infinite alternate running;
+    animation: kutu17 4s linear 0s infinite alternate running;}
+@keyframes kutu1 {
+    0%{
+    color: white;
+    font-size: 15px;
+}
+    
+}
+@keyframes kutu2 {
+    6%{
+    color: red;
+    font-size: 15px;}
+    
+}
+@keyframes kutu3 {
+    12%{
+    color: blue;
+    font-size: 15px;}
+    
+}
+@keyframes kutu4 {
+    18%{
+    color: aquamarine;
+    font-size: 15px;}
+    
+}
+@keyframes kutu5 {
+    24%{
+    color: white;
+    font-size: 15px;}
+    
+}
+@keyframes kutu6 {
+    30%{
+    color: red;
+    font-size: 15px;}
+    
+}
+@keyframes kutu7 {
+    36%{
+    color: blue;
+    font-size: 15px;}
+    
+}
+@keyframes kutu8 {
+    42%{
+    color: aquamarine;
+    font-size: 15px;}
+    
+}
+@keyframes kutu9 {
+    48%{
+    color: white;
+    font-size: 25px;}
+    
+}
+@keyframes kutu10 {
+    54%{
+    color: red;
+    font-size: 15px;}
+    
+}
+@keyframes kutu11 {
+    60%{
+    color: blue;
+    font-size: 15px;}
+    
+}
+@keyframes kutu12 {
+    66%{
+    color: white;
+    font-size: 15px;}
+    
+}
+@keyframes kutu13 {
+    72%{
+    color: red;
+    font-size: 15px;}
+    
+}
+@keyframes kutu14 {
+    78%{
+    color: skyblue;
+    font-size: 15px;}
+    
+}
+@keyframes kutu15 {
+    84%{
+    color: aquamarine;
+    font-size: 15px;}
+    
+}
+@keyframes kutu16 {
+    90%{
+    color: white;
+    font-size: 15px;}
+    
+}
+
+/*BENİM YUVARLAK PROFİL RESMİ*/
+.image1{width: 200px;
+    object-fit: contain;
+object-position: center center;
+clip-path: circle(20% at 50% 50%);}
+.ben_düzen{
+    -webkit-animation: ben 4s linear 0s infinite alternate running;
+    -moz-animation: ben 4s linear 0s infinite alternate running;
+    -o-animation: ben 4s linear 0s infinite alternate running;
+    -ms-animation: ben 4s linear 0s infinite alternate running;
+    animation: ben 4s linear 0s infinite alternate running;
+    }
+    #ben_düzen{position:absolute;
+        top: -35px;
+        left: -52px;
+    
+      
+     }
+      /*sosyal medya ikonları*/
+      .sosyal_düzen{position:absolute;
+        top: 55px;
+        right: 0px;
+        margin: 7px;
+        padding: 4px;
+      display: flex;
+      float: right;
+    
+      
+     }
+     .sosyal_düzen img{height: 30px;
+        width: 40px;}
+
+     .instagram{position: absolute;
+
+    right: 0px;
+    -webkit-animation: instagram 4s linear 0s 1 alternate running;
+    -moz-animation: instagram 4s linear 0s 1 alternate running;
+    -o-animation: instagram 4s linear 0s 1 alternate running;
+    -ms-animation: instagram 4s linear 0s 1 alternate running;
+    animation: instagram 4s linear 0s 1 alternate running;
+    }
+    @keyframes instagram {
+            50%{-webkit-transform: translate(-41px);
+            -moz-transform: translate(-41px);
+            -o-transform: translate(-41px);
+            -ms-transform: translate(-41px);
+            transform: translate(-41px);}
+    }
+    .twitter{position: absolute;
+    right: 0px;
+    -webkit-animation: twitter 4s linear 0s 1 alternate running;
+    -moz-animation: twitter 4s linear 0s 1 alternate running;
+    -o-animation: twitter 4s linear 0s 1 alternate running;
+    -ms-animation: twitter 4s linear 0s 1 alternate running;
+    animation: twitter 4s linear 0s 1 alternate running;
+    }
+    @keyframes twitter {
+    
+        50%{-webkit-transform: translate(41px);
+            -moz-transform: translate(41px);
+            -o-transform: translate(41px);
+            -ms-transform: translate(41px);
+            transform: translate(41px);}
+        
+    }
+    .sosyal1{position: absolute;
+        right: 0px;
+            width: 43px;
+        height: 33px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -o-border-radius: 50%;
+        -ms-border-radius: 50%;
+        border-radius: 50%;
+            
+        }
+        .sosyal1:hover{background-color: greenyellow;}
+        .sosyal2{position: absolute;
+        right: 41px;
+            width: 43px;
+        height: 33px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -o-border-radius: 50%;
+        -ms-border-radius: 50%;
+        border-radius: 50%;
+        }
+        .sosyal2:hover{background-color: greenyellow;}
+           /* benim hakkımda video */
+           .video1{margin-top:8%;
+            margin-left: 17%;
+             height: 330px;
+               width: 65%;
+               display: flex;
+               justify-content:center;
+            
+           }
+           
+           .video{
+             height: 310px;
+             width:75%;
+             padding-top: 10px;
+             object-fit: contain;
+             
+             }
+              /* okulum hakkında bilgi*/
+            p{text-align: center;}
+            p img{
+
+                -webkit-animation: okul 3s linear 0s infinite alternate running;
+                -moz-animation: okul 3s linear 0s infinite alternate running;
+                -o-animation: okul 3s linear 0s infinite alternate running;
+                -ms-animation: okul 3s linear 0s infinite alternate running;
+                animation: okul 3s linear 0s infinite alternate running;
+               }
+               @keyframes okul {
+                    0%{
+                        -webkit-border-radius: 50%;
+                        -moz-border-radius: 50%;
+                        -o-border-radius: 50%;
+                        -ms-border-radius: 50%;
+                        border-radius: 50%;
+                    }
+                
+               }
+               
+               .okul{
+                border: 2px;
+                margin-top: 21px;
+                border-image-source:url(resimler/nevü.jpg);
+                border-radius: 30%;
+                }
+                .metin{margin: 19px auto;
+                  margin-bottom: 19px;
+                     border: 2px;
+                     background-image: -webkit-linear-gradient(red,yellow,blue);
+                     background-image: -moz-linear-gradient(red,yellow,blue);
+                     background-image: -ms-linear-gradient(red,yellow,blue);
+                     background-image: -o-linear-gradient(red,yellow,blue);
+                     background-image:linear-gradient(red,yellow,blue);
+                     text-transform:uppercase;
+                     text-align: center;
+                     max-width: 50%;
+                     background-color: aqua;
+                     }
+                    /*çekimlerim*/
+                    #cekimlerim{font-style: italic;
+                        font-size: 30px;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        text-transform: uppercase;
+                        color: #fff;
+                        text-align: center;
+                      width: 100%;
+                     background-color: blue;
+                     -webkit-animation: cekim 3s linear 0s infinite alternate running;
+                     -moz-animation: cekim 3s linear 0s infinite alternate running;
+                     -o-animation: cekim 3s linear 0s infinite alternate running;
+                     -ms-animation: cekim 3s linear 0s infinite alternate running;
+                     animation: cekim 3s linear 0s infinite alternate running;
+                    }
+                    @keyframes cekim {
+                      
+                      0%{color: #f00;
+                      background-color: yellow;}
+                      50%{color: green;
+                      background-color: black;}
+                    }
+                     /* CSS styles for the gallery */
+                   .gallery {
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                  }
+                  
+                  .gallery img {
+                    width: 160px;
+                    height: 150px;
+                    object-fit: cover;
+                    margin: 10px;
+                    transition: transform 0.3s;
+                  }
+                  
+                  .gallery img:hover {
+                    transform: scale(1.1);
+                  }
